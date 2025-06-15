@@ -3,5 +3,8 @@ numpy
 scikit-learn
 matplotlib
 seaborn
+logging
+datetime
+requests
 
 -e .
