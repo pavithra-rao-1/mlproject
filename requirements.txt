@@ -9,5 +9,6 @@ requests
 catboost
 xgboost
 dataclasses
+dill
 
 -e .
